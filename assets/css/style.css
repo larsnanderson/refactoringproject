@@ -19,7 +19,7 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
+/* coloration intended as subtle highlight */
 .header h1 .seo {
     color: #d9dcd6;
 }
@@ -53,7 +53,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* image alignment alternates L-R-L */
 .float-left {
     float: left;
     margin-right: 25px;
